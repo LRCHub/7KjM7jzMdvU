@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オルソドクシア",
+  "base_artist": "ぐちり",
+  "createdAt": "2026-02-15T05:26:42.911327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オルソドクシア",
+      "artist": "ぐちり",
+      "has_synced": true,
+      "path": "select/01_オルソドクシア_ぐちり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オルソドクシア",
+      "artist": "Guchiri",
+      "has_synced": true,
+      "path": "select/02_オルソドクシア_Guchiri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オルソドクシア",
+      "artist": "ぐちり feat. 音街ウナ、鏡音レン",
+      "has_synced": false,
+      "path": "select/03_オルソドクシア_ぐちり_feat._音街ウナ、鏡音レン.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オルソドクシア",
+      "artist": "ぐちり",
+      "has_synced": false,
+      "path": "select/pl_01_オルソドクシア_ぐちり.txt"
+    }
+  ]
+}
